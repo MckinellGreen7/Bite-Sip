@@ -27,11 +27,11 @@ const Navbar = () => {
         <div className={nav ? "md:hidden fixed left-0 top-0 w-full h-full bg-black ease-linear duration-500 flex flex-col items-center":"fixed left-[-100%] z-0"}>
         <h1 className="font-poppins text-2xl text-[#00df9a] font-bold m-2 p-4">Bite & Sipp</h1>
         <ul className='uppercase'>
-                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer '><a href="/">Home</a></li>
-                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer '><a href="#Gallery">Gallery</a></li>
-                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer '><a href="#Cuisines">Cuisines</a></li>
-                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer '><a href="#Review">Review</a></li>
-                <li className='font-bold text-white font-poppins text-[15px] cursor-pointer '><a href="#Contact">Contact</a></li>  
+                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer' onClick={handleNav}><a href="/">Home</a></li>
+                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer' onClick={handleNav}><a href="#Gallery">Gallery</a></li>
+                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer' onClick={handleNav}><a href="#Cuisines">Cuisines</a></li>
+                <li className='font-bold text-white font-poppins text-[15px] mb-4 cursor-pointer' onClick={handleNav}><a href="#Review">Review</a></li>
+                <li className='font-bold text-white font-poppins text-[15px] cursor-pointer' onClick={handleNav}><a href="#Contact">Contact</a></li>  
         </ul>
         </div>
       </div>
