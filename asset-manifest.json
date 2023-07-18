@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bite-Sip/static/css/main.4a96b4bf.css",
-    "main.js": "/Bite-Sip/static/js/main.c8d8eb76.js",
+    "main.js": "/Bite-Sip/static/js/main.5328ad0a.js",
     "static/media/hero.jpg": "/Bite-Sip/static/media/hero.99ac9a1830dc8aba3f1c.jpg",
     "static/media/logo.png": "/Bite-Sip/static/media/logo.1eb77cac01e32d9ea8ee.png",
     "static/media/chinese.jpg": "/Bite-Sip/static/media/chinese.c8b1fef6a082e7259444.jpg",
@@ -15,10 +15,10 @@
     "static/media/service.avif": "/Bite-Sip/static/media/service.651ba98be87d32be206e.avif",
     "index.html": "/Bite-Sip/index.html",
     "main.4a96b4bf.css.map": "/Bite-Sip/static/css/main.4a96b4bf.css.map",
-    "main.c8d8eb76.js.map": "/Bite-Sip/static/js/main.c8d8eb76.js.map"
+    "main.5328ad0a.js.map": "/Bite-Sip/static/js/main.5328ad0a.js.map"
   },
   "entrypoints": [
     "static/css/main.4a96b4bf.css",
-    "static/js/main.c8d8eb76.js"
+    "static/js/main.5328ad0a.js"
   ]
 }
