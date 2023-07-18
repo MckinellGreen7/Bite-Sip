@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bite-sip/static/css/main.4a96b4bf.css",
+    "main.js": "/bite-sip/static/js/main.f49167bd.js",
+    "static/media/hero.jpg": "/bite-sip/static/media/hero.99ac9a1830dc8aba3f1c.jpg",
+    "static/media/logo.png": "/bite-sip/static/media/logo.1eb77cac01e32d9ea8ee.png",
+    "static/media/chinese.jpg": "/bite-sip/static/media/chinese.c8b1fef6a082e7259444.jpg",
+    "static/media/Italian.jpg": "/bite-sip/static/media/Italian.7ac5a6cf09cec4180383.jpg",
+    "static/media/northIndia.webp": "/bite-sip/static/media/northIndia.d699cde31a93bbf5d34e.webp",
+    "static/media/food.jpg": "/bite-sip/static/media/food.77f30e14df41a48989c9.jpg",
+    "static/media/mexican.jpg": "/bite-sip/static/media/mexican.f3061401caec8e0fc70f.jpg",
+    "static/media/ambience.jpg": "/bite-sip/static/media/ambience.29175da048c8f894caa4.jpg",
+    "static/media/beverages.jpeg": "/bite-sip/static/media/beverages.5842b1bf8f916dc4672b.jpeg",
+    "static/media/southIndia.jpg": "/bite-sip/static/media/southIndia.5cfa183ab54618723c6c.jpg",
+    "static/media/service.avif": "/bite-sip/static/media/service.651ba98be87d32be206e.avif",
+    "index.html": "/bite-sip/index.html",
+    "main.4a96b4bf.css.map": "/bite-sip/static/css/main.4a96b4bf.css.map",
+    "main.f49167bd.js.map": "/bite-sip/static/js/main.f49167bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a96b4bf.css",
+    "static/js/main.f49167bd.js"
+  ]
+}
